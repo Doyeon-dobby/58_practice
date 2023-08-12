@@ -1,0 +1,41 @@
+.gesture-three {
+  background-color: #ffffff;
+  height: 42px;
+  position: relative;
+  width: 360px;
+}
+
+.gesture-three .rectangle {
+  background-color: #949494;
+  border-radius: 2px;
+  height: 14px;
+  left: 273px;
+  position: absolute;
+  top: 14px;
+  width: 14px;
+}
+
+.gesture-three .vector {
+  height: 14px;
+  left: 73px;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+
+.gesture-three .union {
+  height: 16px;
+  left: 172px;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.gesture-three .div {
+  background-color: #e0e0e0;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 362px;
+}

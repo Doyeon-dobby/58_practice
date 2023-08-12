@@ -1,0 +1,5 @@
+:root {
+  --colorsbackgroundsdark: rgba(15, 15, 15, 1);
+  --colorsbackgroundslight: rgba(245, 245, 245, 1);
+  --wireframescolorstext-legibilityhigh-emphasis: rgba(23, 14, 43, 1);
+}

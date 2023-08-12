@@ -1,0 +1,594 @@
+.element {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 800px;
+  overflow-x: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.element .frame {
+  height: 1587px;
+  left: 16px;
+  position: absolute;
+  top: 87px;
+  width: 328px;
+}
+
+.element .view {
+  height: 1400px;
+  position: relative;
+}
+
+.element .overlap-group-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 1298px;
+  width: 330px;
+}
+
+.element .overlap-group {
+  background-color: #ffeff5;
+  border-radius: 8px;
+  height: 48px;
+  position: relative;
+  width: 328px;
+}
+
+.element .text-wrapper-2 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 20px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.element .img {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.element .overlap-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 1238px;
+  width: 330px;
+}
+
+.element .div-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 1178px;
+  width: 330px;
+}
+
+.element .view-2 {
+  height: 34px;
+  left: 4px;
+  position: absolute;
+  top: 1128px;
+  width: 192px;
+}
+
+.element .overlap {
+  background-color: #72d9fa;
+  border-radius: 8px;
+  height: 34px;
+  position: relative;
+  width: 190px;
+}
+
+.element .p {
+  color: #ffffff;
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  height: 18px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.element .image {
+  height: 38px;
+  left: 21px;
+  position: absolute;
+  top: 1074px;
+  width: 286px;
+}
+
+.element .image-2 {
+  height: 38px;
+  left: 21px;
+  position: absolute;
+  top: 1362px;
+  width: 286px;
+}
+
+.element .overlap-wrapper-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3e5c5c962fb12b7fabbec478419a8a79/img/rectangle-95-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 328px;
+}
+
+.element .overlap-2 {
+  border-radius: 6px;
+  height: 328px;
+  position: relative;
+}
+
+.element .rectangle-2 {
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(201.88, 201.03, 201.03, 0) 100%);
+  border-radius: 6px;
+  height: 328px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 328px;
+}
+
+.element .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 12px;
+  position: absolute;
+  top: 255px;
+}
+
+.element .view-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+}
+
+.element .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 12px;
+  position: absolute;
+  top: 291px;
+}
+
+.element .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .div-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 6px;
+  left: 162px;
+  position: absolute;
+  top: 292px;
+}
+
+.element .frame-2 {
+  align-items: center;
+  background-color: #ffa6a6;
+  border-radius: 10px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+}
+
+.element .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 2px 2px #0000001a;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .overlap-wrapper-3 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3e5c5c962fb12b7fabbec478419a8a79/img/rectangle-95-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 390px;
+  width: 328px;
+}
+
+.element .overlap-wrapper-4 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/3e5c5c962fb12b7fabbec478419a8a79/img/rectangle-95-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 730px;
+  width: 328px;
+}
+
+.element .image-3 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.element .image-4 {
+  height: 48px;
+  left: 0;
+  position: fixed;
+  top: 25px;
+  width: 360px;
+}
+
+.element .view-4 {
+  height: 50px;
+  left: 0;
+  position: fixed;
+  top: 24px;
+  width: 362px;
+}
+
+.element .div-6 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 360px;
+}
+
+.element .union-wrapper {
+  height: 24px;
+  left: 320px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.element .union-2 {
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.element .div-7 {
+  color: transparent;
+  font-family: "establish Retrosans OTF-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.element .span {
+  color: #ffa6a6;
+}
+
+.element .text-wrapper-6 {
+  color: #96e6ff;
+}
+
+.element .group-wrapper {
+  border: 1px solid;
+  border-color: #424242;
+  border-radius: 8px;
+  height: 24px;
+  left: 288px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.element .group {
+  height: 11px;
+  left: 2px;
+  position: relative;
+  top: 5px;
+}
+
+.element .text-wrapper-7 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 6px;
+  font-weight: 700;
+  height: 4px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 6px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.element .text-wrapper-8 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 8px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.element .text-wrapper-9 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 8px;
+  font-weight: 700;
+  height: 6px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 5px;
+}
+
+.element .div-8 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .arrow-back-ios {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.element .div-9 {
+  height: 69px;
+  left: 0;
+  position: fixed;
+  top: 689px;
+  width: 360px;
+}
+
+.element .frame-wrapper {
+  background-color: #ffeff5;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 360px;
+}
+
+.element .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  left: 16px;
+  position: relative;
+  top: 12px;
+}
+
+.element .view-5 {
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.element .img-2 {
+  height: 28px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .text-wrapper-10 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 42px;
+}
+
+.element .view-6 {
+  height: 44px;
+  position: relative;
+  width: 58px;
+}
+
+.element .text-wrapper-11 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 56px;
+}
+
+.element .auto-awesome {
+  height: 28px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.element .div-10 {
+  height: 44px;
+  position: relative;
+  width: 50px;
+}
+
+.element .text-wrapper-12 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 48px;
+}
+
+.element .group-wrapper-2 {
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .group-2 {
+  height: 23px;
+  left: 2px;
+  position: relative;
+  top: 3px;
+  width: 24px;
+}
+
+.element .overlap-group-2 {
+  height: 23px;
+  position: relative;
+}
+
+.element .union-3 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.element .subtract {
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.element .image-5 {
+  height: 44px;
+  object-fit: cover;
+  position: relative;
+  width: 44px;
+}
+
+.element .rectangle-3 {
+  background-color: #c1c1c1;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .gesture-three-buttons {
+  left: 0 !important;
+  position: fixed !important;
+  top: 758px !important;
+}
+
+.element .android-status-bar-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
